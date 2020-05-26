@@ -1,5 +1,5 @@
-<p align="center">
-   <img src="https://i.ibb.co/ZNX0Y6S/header.jpg" alt="Twitter Clone" alt="header" border="0">
+<p align="center">   
+  <img src="https://i.ibb.co/kx1v9SL/header.jpg" alt="Twitter Clone" border="0">
 </p>
 
 # Twitter Clone API

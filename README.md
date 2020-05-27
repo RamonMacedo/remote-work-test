@@ -68,7 +68,7 @@ Twitter Clone returns the following status codes in its API:
 
 **Question:** What are the tecnologies used in this project?
 
-**Answer:** The tecnologies used in this project are [NodeJS](https://nodejs.org/en/) + [Express Framework](http://expressjs.com/en/) to handle the server and [Typeorm](https://typeorm.io/) with [Postgres](https://www.postgresql.org)
+**Answer:** The tecnologies used in this project are [NodeJS](https://nodejs.org/en/) + [Express Framework](http://expressjs.com/en/) to handle the server and [Postgres](https://www.postgresql.org) with [Typeorm](https://typeorm.io/)
 
 # :closed_book: License
 

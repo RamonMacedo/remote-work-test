@@ -8,6 +8,10 @@
 [![Stars](https://img.shields.io/github/stars/RamonMacedo/remote-work-test?color=457b9d&style=flat-square)](https://github.com/RamonMacedo/remote-work-test/stargazers)
 [![Contributors](https://img.shields.io/github/contributors/RamonMacedo/remote-work-test?color=457b9d&style=flat-square)](https://github.com/RamonMacedo/remote-work-test/graphs/contributors)
 
+# API Documentation
+
+[Twitter Clone API](https://app.swaggerhub.com/apis-docs/RamonMacedo/Twitter_Copy/3.0.0)
+
 # :pushpin: Table of Contents
 
 * [Features](#rocket-features)
